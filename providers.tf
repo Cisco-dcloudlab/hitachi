@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     intersight = {
-      source  = "CiscoDevNet/intersight"
+      source  = "CiscoDevNet/intersight/latest"
       version = ">= 1.0.35"
     }
     random = {
